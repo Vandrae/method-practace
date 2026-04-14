@@ -8,6 +8,7 @@ public class Format {
         System.out.println(formattedName);
     }
    public static String formatName(String first, String last){
-       return last + "," + first;
+
+        return last + "," + first;
     }
 }
